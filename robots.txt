@@ -1,4 +1,5 @@
-User-agent: *
-Disallow:
+User-Agent: *
 Allow: /
-Sitemap: https://linq-corporate.com/sitemap.xml
+Disallow: /api/
+
+Sitemap: https://linq-corporate.vercel.app/sitemap.xml
