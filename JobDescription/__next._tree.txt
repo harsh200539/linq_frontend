@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/db093c9899a1fed3.css","style"]
 :HL["/_next/static/chunks/063f82a91420b5ef.css","style"]
 :HL["/_next/static/chunks/0a6ff56d9459c219.css","style"]
-:HL["/_next/static/chunks/e891013312b4d972.css","style"]
+:HL["/_next/static/chunks/3f0c28bc554040bf.css","style"]
 :HL["/_next/static/chunks/75dcb44901537fbb.css","style"]
-0:{"buildId":"_nNAQ40qwkI4QAKoKoAvQ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"JobDescription","paramType":null,"paramKey":"JobDescription","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"92ylvHj-s3W_xc8l-LlCB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"JobDescription","paramType":null,"paramKey":"JobDescription","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
